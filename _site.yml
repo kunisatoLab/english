@@ -16,6 +16,8 @@ navbar:
       href: articles.html
     - text: Presentation
       href: presentation.html
+  - text: Japanese
+    href: https://kunisatolab.github.io/main/index.html
 output:
   html_document:
     theme: cosmo
