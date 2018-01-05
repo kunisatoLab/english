@@ -1,50 +1,43 @@
 ---
-title: "Lab Menmbers"
+title: "Team"
 ---
 
-### 教員
+### Principal investigator
 
 - [Yoshihiko Kunisato](yoshihiko-kunisato.html)
 
 
-### PD
+### Postdoctoral Fellow
 
-- 森 正樹　(日本学術振興会 特別研究員PD)
-
-
-### 大学院生（博士2年）
-
-- [坂本次郎](https://mrunadon.github.io/blogdown_page/post/profile/)　(日本学術振興会 特別研究員DC1)
-- [杣取恵太](https://ksomatori.github.io/homepage/index.html)　(日本学術振興会 特別研究員DC1)
+- Masaki Mori　(JSPS Research Fellowship for Young Scientists, Postdoctoral Fellow (PD))
 
 
-### 大学院生（修士２年）
+### Ph.D. students
 
-- 金子美帆
-- 菊池羽音
-- 土谷美月
-
-
-### 大学院生（修士１年）
-
-- 井口聖香
-- 土原浩平
-
-### 学部生（４年）
-
-- 阿久津裕史
-- 福地友輔
-- 関 海真
-- 中川卓知
-- 中西由紀奈
-- 長尾雅春
-- 関谷朋志
+- [Jiro Sakamoto](https://mrunadon.github.io/blogdown_page/post/profile/)　(JSPS Research Fellowship for Young Scientists, Doctoral Course Students (DC1))
+- [Keita Somatori](https://ksomatori.github.io/homepage/index.html)　(JSPS Research Fellowship for Young Scientists, Doctoral Course Students (DC1))
 
 
-### 学部生（３年）
-- 広瀬友彩 
-- 小嶋那奈 
-- アン ミョンヒ 
-- 井上圭右 
-- 小澤千尋 
-- 西田千夏 
+### Master Course students
+
+- Miho Kaneko
+- Wato Kikuchi
+- Mizuki Tsuchiya
+- Seika Iguchi
+- Kohei Tsuchihara
+
+### Undergraduate students
+
+- Hirofumi Akutsu
+- Yusuke Fukuchi
+- Kaima Seki
+- Takuto Nakagawa
+- Yukina Nakanishi
+- Masaharu Nagao
+- Tomoyuki Sekiya
+- Yua Hirose 
+- Nana Kojima 
+- Myeonghee Ahn 
+- keisuke Inoue 
+- Chihiro Ozawa 
+- Chika Nishida

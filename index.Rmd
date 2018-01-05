@@ -6,14 +6,14 @@ title: "Computational Clinical Psychology Lab"
 
 <br />
 
-### Welcome to Computational Clinical Psychology Lab
-計算論的臨床心理学研究室では，気分・不安障害のメカニズムに関する基礎研究，実証に基づく臨床心理実践のための研究，認知行動療法の効果をより高めるための研究を行っています（英語サイト作成中・・・）。
+### Welcome 
+Welcome to the Computational Clinical Psychology Lab.
+Our research interests are (1)  impairments of decision making in depression using the bayesian cognitive modelling, (2) fear conditioning in anxiety disorders using the neural network model, (3) evedence based practce in clinical psychology.The Computational Clinical Psychology Lab is directed by Yoshihiko Kunisato, Ph.D.
 
 <br />
 
 ### Contact
 #### Yoshihiko Kunisato, Ph.D.
 #### Department of Psychology, Senshu University
-#### 2-1-1, Higashimita, Tama-ku, Kawasaki-shi, 
-#### Kanagawa 214-8580, Japan
-#### [Mail form](https://docs.google.com/forms/d/e/1FAIpQLSeVb0_ti9flHyGcRQcLESQO7Tzl3eH5hbCqXyzcGh7RWLQexA/viewform)
+#### ADRESS: 2-1-1, Higashimita, Tama-ku, Kawasaki-shi, Kanagawa 214-8580, Japan
+#### E-MAIL: ykunisato<at>psy.senshu-u.ac.jp
