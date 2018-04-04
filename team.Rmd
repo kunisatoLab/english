@@ -9,35 +9,29 @@ title: "Team"
 
 ### Postdoctoral Fellow
 
-- Masaki Mori　(JSPS Research Fellowship for Young Scientists, Postdoctoral Fellow (PD))
-
-
 ### Ph.D. students
 
-- [Jiro Sakamoto](https://mrunadon.github.io/blogdown_page/post/profile/)　(JSPS Research Fellowship for Young Scientists, Doctoral Course Students (DC1))
 - [Keita Somatori](https://ksomatori.github.io/homepage/index.html)　(JSPS Research Fellowship for Young Scientists, Doctoral Course Students (DC1))
-
 
 ### Master Course students
 
-- Miho Kaneko
-- Wato Kikuchi
-- Mizuki Tsuchiya
 - Seika Iguchi
 - Kohei Tsuchihara
+- Takuto Nakagawa
 
 ### Undergraduate students
 
 - Hirofumi Akutsu
-- Yusuke Fukuchi
-- Kaima Seki
-- Takuto Nakagawa
-- Yukina Nakanishi
-- Masaharu Nagao
-- Tomoyuki Sekiya
 - Yua Hirose 
 - Nana Kojima 
 - Myeonghee Ahn 
 - keisuke Inoue 
 - Chihiro Ozawa 
 - Chika Nishida
+- Runa Kikuchi
+- Mai Shibata
+- Momoka Shibaya
+- Nodoka Inoue
+- Sakina Inoue
+- Natsumi Oofusa
+- Kaito Suzuki
