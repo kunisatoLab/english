@@ -2,10 +2,15 @@
 title: "Journal Articles"
 ---
 
-
 ### in press
 
-- Hasegawa, A., Somatori, K., Nishimura, H., Hattori, Y., & Kunisato, Y. (in press). Associations between self-reported impulsivity and a latent variable of impulsive action constructed from three laboratory tasks. Journal of Experimental Psychopathology.
+- Nishiguchi, Y., Sakamoto, J., Kunisato, Y., & Takano, K. (in press) Linear Ballistic Accumulator Modeling of Attentional Bias Modification Revealed Disturbed Evidence Accumulation of Negative Information by Explicit Instruction. Frontiers in Psychology,
+
+- Yokomitsu, K., Sakai, T., Irie, T., Tayama, J., Furukawa, H., Himachi, M., Kanazawa, J., Koda, M., Kunisato, Y., Matsuoka, H., Takada, T., Takahashi, F., Takahashi, T., & Osawa, K (in press). Gambling symptoms, behaviors, and cognitive distortions in Japanese university students. Substance Abuse Treatment, Prevention, and Policy, 
+
+### 2019
+
+- Hasegawa, A., Somatori, K., Nishimura, H., Hattori, Y., & Kunisato, Y. (2019). Associations between self-reported impulsivity and a latent variable of impulsive action constructed from three laboratory tasks. Journal of Experimental Psychopathology, 10, 3. doi: 10.1177/2043808719861894
 
 ### 2018
 
