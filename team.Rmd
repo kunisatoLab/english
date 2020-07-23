@@ -9,29 +9,23 @@ title: "Team"
 
 ### Postdoctoral Fellow
 
+- [Asako Toyama](https://t-asa.github.io/homepage/index.html)
+
 ### Ph.D. students
 
-- [Keita Somatori](https://ksomatori.github.io/homepage/index.html)　(JSPS Research Fellowship for Young Scientists, Doctoral Course Students (DC1))
+- [Keita Somatori](https://ksomatori.github.io/homepage/index.html)
 
 ### Master Course students
 
-- Seika Iguchi
-- Kohei Tsuchihara
-- Takuto Nakagawa
+- Keisuke Inoue
+- Satoshi Yamazaki
 
 ### Undergraduate students
 
-- Hirofumi Akutsu
-- Yua Hirose 
-- Nana Kojima 
-- Myeonghee Ahn 
-- keisuke Inoue 
-- Chihiro Ozawa 
-- Chika Nishida
-- Runa Kikuchi
-- Mai Shibata
-- Momoka Shibaya
-- Nodoka Inoue
-- Sakina Inoue
-- Natsumi Oofusa
-- Kaito Suzuki
+- Yukiko Saito
+- Jihee Woo
+- Ryota Tanaka
+- Daichi Igarashi
+- Naoki Sawamura
+- Shu Ensei
+- Koji Komine
