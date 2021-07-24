@@ -19,13 +19,15 @@ title: "Team"
 
 - Keisuke Inoue
 - Satoshi Yamazaki
+- Yukiko Saito
 
 ### Undergraduate students
-
-- Yukiko Saito
-- Jihee Woo
-- Ryota Tanaka
-- Daichi Igarashi
-- Naoki Sawamura
-- Shu Ensei
 - Koji Komine
+- Naoki Sawamura
+- Ensei Shu
+- Kaichu Kyo
+- Yura Muraguchi
+- Mayu Okano
+- Masataka Sumida
+- Kana Warashina
+
