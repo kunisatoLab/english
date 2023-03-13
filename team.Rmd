@@ -17,17 +17,23 @@ title: "Team"
 
 ### Master Course students
 
-- Keisuke Inoue
-- Satoshi Yamazaki
 - Yukiko Saito
+- Mayu Obata
+- Ayuri Kai
 
 ### Undergraduate students
+
 - Koji Komine
-- Naoki Sawamura
-- Ensei Shu
 - Kaichu Kyo
 - Yura Muraguchi
 - Mayu Okano
 - Masataka Sumida
 - Kana Warashina
+- Amane Suzuki
+- Rryuji Yamagishi
+- Takumi Omizu
+- Syouto Hirai
+- Kurumi Tajima
+- Hiyori Kato
+
 
